@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "jest": "^25.1.0",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.3"
   }
 }
